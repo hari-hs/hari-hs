@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hari!
 
-Full-stack Software Engineer | M.S. CS from DePaul | Java, Spring Boot, React, AWS | AWS Certified Developer
+Full-stack Software Engineer | M.S. CS from DePaul University | Java, Spring Boot, React, AWS | AWS Certified Developer
 
 ---
 
